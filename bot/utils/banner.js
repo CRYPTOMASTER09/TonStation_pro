@@ -1,6 +1,6 @@
 const banner = `
 
-© Freddy Bots
+© CRYPTO MASTER 
 
 Starting bot.......
 `;
