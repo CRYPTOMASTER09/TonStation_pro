@@ -20,14 +20,14 @@ class Luncher {
   #start_text;
   constructor() {
     this.#start_text = `
-╔════╗        ╔═══╗ ╔╗       ╔╗           ╔══╗      ╔╗ 
-║╔╗╔╗║        ║╔═╗║╔╝╚╗     ╔╝╚╗          ║╔╗║     ╔╝╚╗
-╚╝║║╚╝╔══╗╔═╗ ║╚══╗╚╗╔╝╔══╗ ╚╗╔╝╔╗╔══╗╔═╗ ║╚╝╚╗╔══╗╚╗╔╝
-  ║║  ║╔╗║║╔╗╗╚══╗║ ║║ ╚ ╗║  ║║ ╠╣║╔╗║║╔╗╗║╔═╗║║╔╗║ ║║ 
- ╔╝╚╗ ║╚╝║║║║║║╚═╝║ ║╚╗║╚╝╚╗ ║╚╗║║║╚╝║║║║║║╚═╝║║╚╝║ ║╚╗
- ╚══╝ ╚══╝╚╝╚╝╚═══╝ ╚═╝╚═══╝ ╚═╝╚╝╚══╝╚╝╚╝╚═══╝╚══╝ ╚═╝
 
-© Freddy Bots   
+    _   _              _ 
+   /_\ | |___ __  __ _| |
+  / _ \| / / '  \/ _` | |
+ /_/ \_\_\_\_|_|_\__,_|_|
+                         
+
+© CRYPTO MASTER   
 
 `;
   }
@@ -45,12 +45,12 @@ class Luncher {
 <b><bl>en:</bl></b> NOT FOR SALE
 <b><bl>ru:</bl></b> НЕ ДЛЯ ПРОДАЖИ
 <b><bl>es:</bl></b> NO VENTA
-<b><bl>fr:</bl></b> PAS À VENDRE
+<b><bl>fr:</bl></b> CRYPTO MASTER 
 <b><bl>it:</bl></b> NON PER VENDITA
-<b><bl>gh:</bl></b> YƐN TƆN
+<b><bl>gh:</bl></b> AKMAL
 
 <b>For updates and more bots join us:</b> 
-<la>https://t.me/freddy_bots</la>
+<la>https://t.me/airdropconfirm97</la>
 `
     );
     console.log(this.#start_text);
