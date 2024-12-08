@@ -27,7 +27,7 @@ class Luncher {
  ╔╝╚╗ ║╚╝║║║║║║╚═╝║ ║╚╗║╚╝╚╗ ║╚╗║║║╚╝║║║║║║╚═╝║║╚╝║ ║╚╗
  ╚══╝ ╚══╝╚╝╚╝╚═══╝ ╚═╝╚═══╝ ╚═╝╚╝╚══╝╚╝╚╝╚═══╝╚══╝ ╚═╝
 
-© Freddy Bots   
+© Akmal Bots   
 
 `;
   }
@@ -50,7 +50,7 @@ class Luncher {
 <b><bl>gh:</bl></b> YƐN TƆN
 
 <b>For updates and more bots join us:</b> 
-<la>https://t.me/freddy_bots</la>
+<la>https://t.me/confirmairdrop7</la>
 `
     );
     console.log(this.#start_text);
