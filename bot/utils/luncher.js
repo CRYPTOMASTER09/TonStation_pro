@@ -20,13 +20,11 @@ class Luncher {
   #start_text;
   constructor() {
     this.#start_text = `
-
     _   _              _ 
    /_\ | |___ __  __ _| |
   / _ \| / / '  \/ _` | |
  /_/ \_\_\_\_|_|_\__,_|_|
-                         
-
+                        
 © CRYPTO MASTER   
 
 `;
